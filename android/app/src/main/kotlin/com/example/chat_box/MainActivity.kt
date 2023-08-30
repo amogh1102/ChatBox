@@ -1,4 +1,4 @@
-package com.example.social_media_app
+package com.example.chat_box
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterFragmentActivity
